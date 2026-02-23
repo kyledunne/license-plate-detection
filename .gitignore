@@ -3,3 +3,5 @@ data
 !data/license_plates.yaml
 !data/license_plates_kaggle.yaml
 *.zip
+runs
+data_gen
